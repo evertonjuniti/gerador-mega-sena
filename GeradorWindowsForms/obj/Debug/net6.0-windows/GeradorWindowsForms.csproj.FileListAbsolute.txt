@@ -1,0 +1,17 @@
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\bin\Debug\net6.0-windows\GeradorWindowsForms.exe
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\bin\Debug\net6.0-windows\GeradorWindowsForms.deps.json
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\bin\Debug\net6.0-windows\GeradorWindowsForms.runtimeconfig.json
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\bin\Debug\net6.0-windows\GeradorWindowsForms.dll
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\bin\Debug\net6.0-windows\GeradorWindowsForms.pdb
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.Form1.resources
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.csproj.GenerateResource.cache
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.AssemblyInfoInputs.cache
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.AssemblyInfo.cs
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.dll
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\refint\GeradorWindowsForms.dll
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.pdb
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\GeradorWindowsForms.genruntimeconfig.cache
+C:\Users\Everton Juniti Ogura\Documents\Github\gerador-mega-sena\GeradorWindowsForms\obj\Debug\net6.0-windows\ref\GeradorWindowsForms.dll
