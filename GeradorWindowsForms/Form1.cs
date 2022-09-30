@@ -205,6 +205,8 @@ namespace GeradorWindowsForms
 
                 String aposta = "";
 
+                numerosGerados.Sort();
+
                 foreach (int numeroGerado in numerosGerados)
                     aposta += "-" + numeroGerado.ToString();
 
